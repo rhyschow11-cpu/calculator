@@ -7,8 +7,9 @@ Add, subtract, multiply and divide two numbers; display the result.
 
 ## How to run it
 
-From Week 3: python3 calculator.py
-Enter the first number, operator (+ - * /), then a second number.
+Run: python3 calculator.py
+Enter the first number, operator (+ - * /), then a second number
 The program prints Result: followed by the answer. 
+
 
 

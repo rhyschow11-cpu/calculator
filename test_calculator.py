@@ -14,3 +14,6 @@ def test_multiply():
 
 def test_negative():
 	assert add(2, -4) == -2
+
+def test_circleArea():
+        assert CircleArea(-4) == "Error"

@@ -1,4 +1,4 @@
-1. The program must startup successfully
+1. The program must start-up successfully
 2. The program must add one number with another. E.g) '1' '+' '2' Outputs: '3'
 3. The program must subtract one number from another e.g) '2' '-' '1' Outputs '1'
 4. The program must multiply one number with another
